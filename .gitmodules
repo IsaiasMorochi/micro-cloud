@@ -1,0 +1,6 @@
+[submodule "micro-productos"]
+	path = micro-productos
+	url = https://github.com/IsaiasMorochi/micro-productos.git
+[submodule "micro-item"]
+	path = micro-item
+	url = https://github.com/IsaiasMorochi/micro-item.git
