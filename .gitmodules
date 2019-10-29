@@ -7,3 +7,6 @@
 [submodule "micro-eureka-server"]
 	path = micro-eureka-server
 	url = https://github.com/IsaiasMorochi/micro-eureka-server.git
+[submodule "micro-zuul-server"]
+	path = micro-zuul-server
+	url = https://github.com/IsaiasMorochi/micro-zuul-server.git
