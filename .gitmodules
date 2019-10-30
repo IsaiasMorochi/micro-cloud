@@ -10,3 +10,6 @@
 [submodule "micro-zuul-server"]
 	path = micro-zuul-server
 	url = https://github.com/IsaiasMorochi/micro-zuul-server.git
+[submodule "micro-config-server"]
+	path = micro-config-server
+	url = https://github.com/IsaiasMorochi/micro-config-server.git
