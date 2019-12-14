@@ -13,3 +13,6 @@
 [submodule "micro-config-server"]
 	path = micro-config-server
 	url = https://github.com/IsaiasMorochi/micro-config-server.git
+[submodule "micro-commons"]
+	path = micro-commons
+	url = https://github.com/IsaiasMorochi/micro-commons.git
