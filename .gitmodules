@@ -31,3 +31,6 @@
 [submodule "micro-settings"]
 	path = micro-settings
 	url = https://github.com/IsaiasMorochi/micro-settings.git
+[submodule "micro-gateway-server"]
+	path = micro-gateway-server
+	url = https://github.com/IsaiasMorochi/micro-gateway-server.git
